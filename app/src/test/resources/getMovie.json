@@ -1,0 +1,9 @@
+{
+  "movie_app_movies_by_pk": {
+    "description": "A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.",
+    "genres": "Drama, Music, Romance",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/devskills-prod.appspot.com/o/a-star-is-born.jpg?alt=media&token=d3d93a53-8542-4d75-adce-78fe063e59e6",
+    "title": "A Star Is Born",
+    "rating": 7
+  }
+}

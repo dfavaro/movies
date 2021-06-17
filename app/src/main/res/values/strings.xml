@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="generic_error">Generic error</string>
+    <string name="rating_max">10</string>
+    <string name="timeout">Timeout</string>
+    <string name="retry">Retry</string>
+</resources>

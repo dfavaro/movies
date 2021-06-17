@@ -1,0 +1,64 @@
+{
+  "movie_app_movies": [
+    {
+      "id": 1,
+      "title": "WandaVision",
+      "description": "Blends the style of classic sitcoms with the MCU, in which Wanda Maximoff and Vision - two super-powered beings living their ideal suburban lives - begin to suspect that everything is not as it seems.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/devskills-prod.appspot.com/o/wandavision.jpg?alt=media&token=7db60705-cdf7-40d1-b257-3703d6b77a3b"
+    },
+    {
+      "id": 3,
+      "title": "The Mandalorian",
+      "description": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/devskills-prod.appspot.com/o/the-mandalorian.jpg?alt=media&token=c1c5147b-6c6c-4f93-a5c5-1361a8b797c4"
+    },
+    {
+      "id": 2,
+      "title": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/devskills-prod.appspot.com/o/forrest-gump.jpg?alt=media&token=0bb7456c-fab9-426e-9a5b-210ab3c8cb16"
+    },
+    {
+      "id": 4,
+      "title": "Dunkirk",
+      "description": "Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/devskills-prod.appspot.com/o/dunkirk.jpg?alt=media&token=e4616178-d063-4bed-ac1f-e6adb228ce6b"
+    },
+    {
+      "id": 5,
+      "title": "A Star Is Born",
+      "description": "A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/devskills-prod.appspot.com/o/a-star-is-born.jpg?alt=media&token=d3d93a53-8542-4d75-adce-78fe063e59e6"
+    },
+    {
+      "id": 6,
+      "title": "Once Upon a Time... In Hollywood",
+      "description": "A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/devskills-prod.appspot.com/o/once-upon-a-time-in-hollywood.jpg?alt=media&token=e024e8c5-8323-43c3-a015-934aaa859a45"
+    },
+    {
+      "id": 7,
+      "title": "The Martian",
+      "description": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/devskills-prod.appspot.com/o/the-martian.jpg?alt=media&token=a370d53e-736d-4682-8e10-e088439b8c31"
+    },
+    {
+      "id": 8,
+      "title": "The Man from U.N.C.L.E.",
+      "description": "In the early 1960s, CIA agent Napoleon Solo and KGB operative Illya Kuryakin participate in a joint mission against a mysterious criminal organization, which is working to proliferate nuclear weapons.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/devskills-prod.appspot.com/o/the-man-from-uncle.jpg?alt=media&token=08541248-d506-4fa5-aff0-673c7e353a69"
+    },
+    {
+      "id": 9,
+      "title": "Brave",
+      "description": "Determined to make her own path in life, Princess Merida (Kelly Macdonald) defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/devskills-prod.appspot.com/o/brave.jpg?alt=media&token=8c7592b7-aef6-473d-b5b6-f700b4fb2228"
+    },
+    {
+      "id": 10,
+      "title": "Megamind",
+      "description": "The supervillain Megamind finally defeats his nemesis, the superhero Metro Man. But without a hero, he loses all purpose and must find new meaning to his life.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/devskills-prod.appspot.com/o/megamind.jpg?alt=media&token=fd7b1bc1-4373-4165-9a43-02231574a0c5"
+    }
+  ]
+}
